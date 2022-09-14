@@ -1,2 +1,2 @@
 # SimonGame
-Simon game created by using basic HTML, CSS.
+Simon game created by using basic HTML, CSS and JavaScript.
